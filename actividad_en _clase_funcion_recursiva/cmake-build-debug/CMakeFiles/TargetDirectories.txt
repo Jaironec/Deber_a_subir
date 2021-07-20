@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/actividad_en _clase_funcion_recursiva/cmake-build-debug/CMakeFiles/actividad_en__clase_funcion_recursiva.dir
+C:/Users/PC/CLionProjects/actividad_en _clase_funcion_recursiva/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/actividad_en _clase_funcion_recursiva/cmake-build-debug/CMakeFiles/rebuild_cache.dir
